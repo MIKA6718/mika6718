@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mika6718" alt="mika6718" /></a> </p>
 
-- 🌱 I’m currently learning: **Visual Studio**
+- 🌱 I’m currently learning: **Coding**
 
 - 💬 Ask me about: **Game,Movie**
 
